@@ -38,10 +38,12 @@ CREATE TABLE `products` (
 -- Dumping data for table `products`
 --
 
+
 INSERT INTO `products` (`product_id`, `name`, `price`, `image`, `description`) VALUES
-('5cb90329d0f13', 'Anggrek', 134000, 'default.jpg', 'Angrek adalah bunga dengan'),
-('5cb90737356f4', 'Melati', 412221, '5cb90737356f4.png', 'melati adalah bla bla bla'),
-('5ddd677b524b5', 'asdadas', 14141242, '5ddd677b524b5.png', 'adasdasdasd');
+
+('5cb90329d0f13', 'Jeruk', 9000, '', 'Jeruk merk pandan berkualitas tinggi'),
+('5cb90737356f4', 'Salak', 8500, '5cb90737356f4.png', 'Gula pasir cap badak , berkualitas tinggi'),
+('5ddd677b524b5', 'Belimbing', 11000, '5ddd677b524b5.png', 'Minyak Goreng merk panda berkualitas tinggi');
 
 -- --------------------------------------------------------
 
