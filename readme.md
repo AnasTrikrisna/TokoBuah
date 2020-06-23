@@ -1,7 +1,7 @@
 ## Cara Menggunakan Source Code
 
 1. Download dulu,
-2. Ekstrak ke dalam folder `/var/www/html` atau `c:\xampp\htdocs\`.
+2. Ekstrak ke dalam folder `c:\xampp\htdocs\`.
 3. Ubah settingan user dan password database pada `application/config/databases.php`.
 4. Import `tokobuah.sql` melalui Phpmyadmin atau MySQL manajemen lainnya.
 
